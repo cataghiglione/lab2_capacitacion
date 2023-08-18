@@ -25,6 +25,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Capacitación Lab2
+Un usuario puede registrarse, iniciar sesión, acceder a su información, "enviar un mail" (aumenta la cantidad de mails enviados) y ver los usuarios que mandaron al menos un mail ese día
 
 ## Installation
 
